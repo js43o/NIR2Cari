@@ -1,4 +1,4 @@
-# NIR2CARI
+# NIR2Cari
 A caricature generation model from near-infrared (NIR) facial images.
 
 ## 사용된 Base Model 목록
